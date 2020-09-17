@@ -16,7 +16,7 @@
       <header class="masthead mb-auto">
         <div class="inner">
           <nav class="nav nav-masthead justify-content-center">
-            <a class="nav-link active" href="Page">Home</a>
+            <a class="nav-link active" href="Home">Home</a>
             <a class="nav-link" href="Page">Features</a>
             <a class="nav-link" href="Contact">Contact</a>
           </nav>
